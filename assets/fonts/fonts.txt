@@ -1,0 +1,6 @@
+font-family: 'Caveat', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Satisfy', cursive;

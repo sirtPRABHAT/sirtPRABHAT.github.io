@@ -1,0 +1,51 @@
+@media screen and (max-width: 1296px){
+    .introduction h2{font-size:42px;line-height: 45px;margin-bottom: 30px;}
+    .introduction span.title{font-size:15px;}
+}
+@media screen and (min-width: 1025px){
+    .portfolio img{width: 220px; height: 200px;}
+    .portfolio .design{padding: 30px;}
+}
+
+
+@media screen and (max-width: 1186px){
+    .introduction h2{font-size:36px;line-height: 40px; margin-bottom: 25px;}
+    .introduction span.title{font-size:14px;} 
+}
+
+@media screen and (max-width: 1076px){
+    .introduction h2{font-size:32px;line-height: 35px; margin-bottom: 25px;}
+    .introduction span.title{font-size:12px;}   
+}
+
+@media screen and (max-width: 976px){
+    .introduction h2{font-size:32px;line-height: 30px; margin-bottom: 20px;}
+}   
+
+
+@media screen and (max-width: 886px){
+    .introduction h2{font-size:26px;line-height: 25px; margin-bottom: 20px;}
+    .introduction span.title{font-size:10px;}
+    .introduction .inner{margin:10% 0 0 0;padding-left: 20px;}   
+}
+@media screen and (max-width: 600px){
+    .introduction h2{font-size:26px;line-height: 25px; margin-bottom: 20px;}
+    .introduction span.title{font-size:10px;}
+
+    .introduction .inner{margin:10% 0 0 0;padding-left: 20px;}
+}
+@media screen and (max-width: 350px){
+    .introduction h2{font-size:22px;line-height: 25px; margin-bottom: 20px;}
+    .introduction span.title{font-size:9px;}
+    .introduction .inner{margin:0% 0 0 0;padding-left: 20px;}
+}
+
+
+@media screen and (max-width: 768px){
+    .menu{display: none;}
+    .mobile-nav{display: block;}
+    .content{position:absolute;left:0px;height:100%;}
+    .content{margin-top: 70px;}
+    .nav-link:hover{color:#ffb400;}
+    .about .imgabout{display: none;}
+}
